@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "fcbc18ee3b496710",
+    "type": "split",
+    "children": [
+      {
+        "id": "f98d5d94d8c7704a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bc84cbdbf24759fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "INDEX DBMS 2ND CT/Module2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Module2"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "eb6cef384832aaec",
+    "type": "split",
+    "children": [
+      {
+        "id": "5cec1d85cf3f9658",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a1f3a94d92b23ec",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "719506991ae118b3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "dc37ef967f9a4096",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3a06ec0e77f9535c",
+    "type": "split",
+    "children": [
+      {
+        "id": "7a74fc5c84fb24b3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c41867f4ce1a87a6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "INDEX DBMS 2ND CT/Module2.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Module2"
+            }
+          },
+          {
+            "id": "d5344d2f878d7946",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "INDEX DBMS 2ND CT/Module2.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Module2"
+            }
+          },
+          {
+            "id": "cca4e0de04551188",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "fac5952c6e87b5d7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "INDEX DBMS 2ND CT/Module2.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Module2"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "bc84cbdbf24759fd",
+  "lastOpenFiles": [
+    "INDEX DBMS 2ND CT/Index.md",
+    "Answers.md",
+    "INDEX DBMS 2ND CT/Module4.md",
+    "INDEX DBMS 2ND CT/Module2.md",
+    "INDEX DBMS 2ND CT",
+    "Welcome.md",
+    "Relational Database Integrity.md",
+    "q.txt",
+    "New Text Document.txt",
+    "Quetions/Module 2.docx",
+    "Quetions/Module 4.docx",
+    "Quetions",
+    "New folder"
+  ]
+}

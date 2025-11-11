@@ -1,0 +1,159 @@
+Module 2 Questions
+Relational Database Integrity
+What is relational database integrity? 
+
+What are the four main types of database integrity discussed? 
+
+
+
+
+Define Domain Integrity and provide an example. 
+
+What is Entity Integrity, and why is it important? 
+
+
+Explain Referential Integrity and its relationship with foreign keys. 
+
+What does User-defined Integrity accomplish? 
+
+Keys
+What is the purpose of keys in a database? 
+
+Define the following key types: 
+
+Primary Key
+
+Candidate Key
+
+Super Key
+
+Alternate Key
+
+Foreign Key
+
+Redundancy and Associated Problems
+What is data redundancy? 
+
+Describe the three problems caused by uncontrolled redundancy: 
+
+
+
+Insertion Anomaly
+
+Update Anomaly
+
+Deletion Anomaly
+
+Dependencies
+What is a single-valued dependency? 
+
+What is a multi-valued functional dependency? 
+
+Normalization
+What is normalization, and what are its main objectives? 
+
+
+What is the rule for First Normal Form (1NF)? 
+
+What rule must be satisfied for Second Normal Form (2NF)? 
+
+Define the rule for Third Normal Form (3NF). 
+
+What is the rule for Boyce-Codd Normal Form (BCNF)? 
+
+What does Fourth Normal Form (4NF) eliminate? 
+
+Decomposition Properties
+What is attribute preservation in database decomposition? 
+
+Define a lossless join decomposition and explain why it is important. 
+
+
+What is dependency preservation, and why is it important for efficiency? 
+
+
+Module 4 Questions
+Transactions
+What is a transaction in a DBMS? 
+
+What are the four ACID properties of a transaction? 
+
+Explain Atomicity with an example. 
+
+
+What does the Consistency property guarantee? 
+
+Define the Isolation property. 
+
+What is Durability in the context of transactions? 
+
+Concurrent Transactions
+Why do database systems allow concurrent transactions? 
+
+List the key problems that can arise from uncontrolled concurrency. 
+
+
+What is the Lost Update Problem? 
+
+Define the Dirty Read Problem. 
+
+What is the Non-repeatable Read Problem? 
+
+What is the Phantom Read Problem? 
+
+Locking Protocols
+What is the purpose of a locking protocol? 
+
+What is a Shared Lock (S-lock) and when is it used? 
+
+What is an Exclusive Lock (X-lock) and how does it differ from a shared lock? 
+
+What is multiple granularity locking? 
+
+What is the purpose of an Intention Lock (e.g., IS, IX)? 
+
+Serializable Schedules
+What is a serializable schedule, and why is it important? 
+
+
+Define a conflict serializable schedule. 
+
+When do two operations conflict? 
+
+What is a view serializable schedule? 
+
+Two-Phase Locking (2PL)
+What is Two-Phase Locking (2PL)? 
+
+Describe the two phases of the 2PL protocol: the Growing Phase and the Shrinking Phase. 
+
+
+How does Strict Two-Phase Locking differ from basic 2PL? 
+
+
+What is a major benefit of Strict 2PL? 
+
+What is a major limitation of 2PL? 
+
+Deadlock
+What is a deadlock in a database system? 
+
+Explain the Wait-Die deadlock prevention scheme. 
+
+
+Explain the Wound-Wait deadlock prevention scheme. 
+
+
+How does deadlock detection using a Wait-For Graph (WFG) work? 
+
+
+What is the Timeout approach for handling deadlocks? 
+
+Concurrency Control Types
+What is the core assumption of Pessimistic Concurrency Control? 
+
+How does pessimistic concurrency control work? 
+
+What is the core assumption of Optimistic Concurrency Control (OCC)? 
+
+What are the three phases of optimistic concurrency control?
