@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "INDEX DBMS 2ND CT/Module2.md",
+                "file": "Python/2ND CT/1. Scatterplot.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Module2"
+              "title": "1. Scatterplot"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "3a06ec0e77f9535c",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "INDEX DBMS 2ND CT/Module2.md",
+                "file": "Python/2ND CT/1. Scatterplot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Module2"
+              "title": "Backlinks for 1. Scatterplot"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "INDEX DBMS 2ND CT/Module2.md",
+                "file": "Python/2ND CT/1. Scatterplot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Module2"
+              "title": "Outgoing links from 1. Scatterplot"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "INDEX DBMS 2ND CT/Module2.md",
+                "file": "Python/2ND CT/1. Scatterplot.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Module2"
+              "title": "Outline of 1. Scatterplot"
             }
           }
         ]
@@ -171,18 +171,49 @@
   },
   "active": "bc84cbdbf24759fd",
   "lastOpenFiles": [
-    "INDEX DBMS 2ND CT/Index.md",
-    "Answers.md",
-    "INDEX DBMS 2ND CT/Module4.md",
-    "INDEX DBMS 2ND CT/Module2.md",
-    "INDEX DBMS 2ND CT",
-    "Welcome.md",
-    "Relational Database Integrity.md",
-    "q.txt",
-    "New Text Document.txt",
-    "Quetions/Module 2.docx",
-    "Quetions/Module 4.docx",
-    "Quetions",
-    "New folder"
+    "Python/2ND CT/Index.md",
+    "Python/Index.md",
+    "Main Index.md",
+    "DBMS/Index.md",
+    "DBMS/2ND CT/Index.md",
+    "Python/2ND CT/Q  NOT PHRASED/WhatsApp Image 2025-11-11 at 20.50.16_5976b734.jpg",
+    "Python/2ND CT/Q Phrased/q.txt",
+    "Python/2ND CT/Q  NOT PHRASED/WhatsApp Image 2025-11-11 at 20.50.16_16181ff0.jpg",
+    "Python/2ND CT/9. Method Overriding.md",
+    "Python/2ND CT/Q Phrased",
+    "Python/2ND CT/Q  NOT PHRASED",
+    "Python/2ND CT/8. Define Python.md",
+    "Python/2ND CT/7. Read CSV.md",
+    "Python/2ND CT/6. Object Creation.md",
+    "Python/2ND CT/3. Pandas Advantages.md",
+    "Python/2ND CT/5. Try Except.md",
+    "Python/2ND CT/4. Data Visualization Importance.md",
+    "Python/2ND CT/22. Define Tuple.md",
+    "Python/2ND CT/21. Define Class.md",
+    "Python/2ND CT/20. Simple Graph.md",
+    "Python/2ND CT/2. With Statement.md",
+    "Python/2ND CT/17. List Operation.md",
+    "Python/2ND CT/19. Count Lines in File.md",
+    "Python/2ND CT/18. List vs Tuple.md",
+    "Python/2ND CT/16. fillna notnull.md",
+    "Python/2ND CT/13. Numpy Array Operations.md",
+    "Python/2ND CT/15. isna function.md",
+    "Python/2ND CT/11. Display DataFrame Rows.md",
+    "Python/2ND CT/14. Aggregate Groupby.md",
+    "Python/2ND CT/12. Numpy vs Pandas.md",
+    "Python/2ND CT/10. Inheritance.md",
+    "Python/2ND CT",
+    "DBMS/2ND CT",
+    "Python",
+    "DBMS",
+    "INDEX PYTHON 2ND CT/Q Phrased/q.txt",
+    "INDEX PYTHON 2ND CT/Q Phrased/New Text Document.txt",
+    "INDEX PYTHON 2ND CT/Q Phrased/WhatsApp Image 2025-11-11 at 20.50.16_5976b734.jpg",
+    "INDEX PYTHON 2ND CT/Q Phrased/WhatsApp Image 2025-11-11 at 20.50.16_16181ff0.jpg",
+    "INDEX PYTHON 2ND CT/Q Phrased",
+    "INDEX PYTHON 2ND CT/Q  NOT PHRASED - Copy/WhatsApp Image 2025-11-11 at 20.50.16_5976b734.jpg",
+    "INDEX PYTHON 2ND CT/Q  NOT PHRASED - Copy/WhatsApp Image 2025-11-11 at 20.50.16_16181ff0.jpg",
+    "INDEX PYTHON 2ND CT/Q  NOT PHRASED/WhatsApp Image 2025-11-11 at 20.50.16_16181ff0.jpg",
+    "INDEX PYTHON 2ND CT/Q  NOT PHRASED/WhatsApp Image 2025-11-11 at 20.50.16_5976b734.jpg"
   ]
 }

@@ -2,17 +2,42 @@
 
 ## Directory Overview
 
-This directory is an Obsidian vault used for managing notes for a Database Management System (DBMS) course. It contains notes, questions, and configuration files related to the course content. The vault is structured to support a mind-map-style organization of concepts, primarily using Markdown files with wiki-style links.
+This directory is an Obsidian vault for managing course notes across multiple subjects. It is organized into a clean, hierarchical structure based on subject directories.
 
-## Key Files
+## Vault Organization
 
-*   `INDEX DBMS 2ND CT/Index.md`: This is the main index file for the course notes. It provides links to the notes for different modules.
-*   `INDEX DBMS 2ND CT/Module2.md`: This file contains the notes for Module 2, covering topics like relational database integrity, keys, redundancy, normalization, and decomposition.
-*   `INDEX DBMS 2ND CT/Module4.md`: This file contains the notes for Module 4, which covers transactions, ACID properties, concurrency control, locking protocols, and deadlocks.
-*   `q.txt`: This file contains the original list of questions for Module 2 and Module 4 that were used to generate the notes.
-*   `.obsidian/`: This directory contains the configuration files for the Obsidian vault. These files manage plugins, appearance, and workspace settings.
-    *   `.obsidian/workspace.json`: This file stores the state of the Obsidian workspace, including open files, pane layout, and other UI settings.
-*   `Welcome.md`: The default welcome file for the Obsidian vault.
+The vault is structured in a three-level hierarchy to ensure clear and scalable organization.
+
+1.  **Root Index (`Main Index.md`)**: The single, top-level index file for the entire vault. It contains links to each subject's main index file.
+
+2.  **Subject Index (`<Subject>/Index.md`)**: Each subject has its own directory (e.g., `DBMS/`, `Python/`). Inside each directory, an `Index.md` file serves as the main entry point for that subject, linking to different categories of notes (e.g., CT Notes, Semester Notes).
+
+3.  **Content Index (`<Subject>/<Category>/Index.md`)**: Within a subject, notes are further organized into category directories (e.g., `2ND CT/`). An `Index.md` file within a category directory lists the actual notes.
+
+## Key Directories & Files
+
+*   `Main Index.md`: The primary index file for the entire vault.
+*   `DBMS/`: Directory for all DBMS-related notes.
+    *   `Index.md`: Main index for the DBMS subject.
+    *   `2ND CT/`: Contains notes for the 2nd CT.
+        *   `Index.md`: Lists all the 2nd CT notes for DBMS.
+*   `Python/`: Directory for all Python-related notes.
+    *   `Index.md`: Main index for the Python subject.
+    *   `2ND CT/`: Contains notes for the 2nd CT.
+        *   `Index.md`: Lists all the 2nd CT notes for Python.
+*   `.obsidian/`: This directory contains the configuration files for the Obsidian vault.
+
+## Answer Generation Workflow
+
+To automate the creation of answers from a question file, the following conventions must be used:
+
+- **Question Types**: Answers can be generated in two styles:
+    - **SAQ**: Short Answer Questions (30-40 words).
+    - **LAQ**: Long Answer Questions (approx. 60 words).
+
+- **Trigger Methods**: To specify the desired answer type, use one of the following methods:
+    1.  **File-based**: Ensure the very first line of the question file contains only the word `SAQ` or `LAQ`.
+    2.  **Prompt-based**: Start your prompt with `ANS SAQ` or `ANS LAQ`, followed by the path to the question file.
 
 ## Usage
 
@@ -22,4 +47,4 @@ This directory is an Obsidian vault and is intended to be used with the [Obsidia
 2.  Open Obsidian and select "Open folder as vault".
 3.  Navigate to this directory (`E:\Obsidian Files\DBMS 1ST SEM MCA`) and select it.
 
-The vault is structured to be explored as a mind map. You can start with the `INDEX DBMS 2ND CT/Index.md` file and navigate through the notes using the links. The graph view in Obsidian can also be used to visualize the connections between different concepts.
+The vault is structured to be explored as a mind map. You can start with the `Main Index.md` file and navigate through the notes using the links.

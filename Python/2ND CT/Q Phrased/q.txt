@@ -1,0 +1,46 @@
+
+
+Short Answer Questions
+Evaluate the use of scatterplot in data visualization with proper example.
+
+Evaluate the importance of using the 'with 'statement for file handling.
+
+Evaluate the advantages of using Pandas library for data analysis.
+
+Evaluate importance of data visualization in data analysis.
+
+Analyse the use of try and except function for using the block in file handling.
+
+Identify the syntax to create an object of class student with the same attribute as simon.
+
+Construct the Python command to read the csv file using file name and the path.
+
+Define Python with example.
+
+Evaluate the method overriding with Example.
+
+Evaluate the benefit of using inheritance in python for object oriented programming.
+
+Develop a python command to display the 1st rows of the dataframe using Pandas.
+
+Difference between Numpy & Pandas.
+
+Explain the array operations of Numpy array.
+
+Explain aggregate & groupby functions of Pandas.
+
+Explain the isna() function in Pandas with Example.
+
+Explain the fillna() and notnull() function for Pandas.
+
+Apply Python list operation to add 'team Python' to the List, Language = (Java, z, c++).
+
+Difference between the python list and tuples in term of mutability and usage.
+
+Apply file handling and loop concept in python to create a program that counts the number of lines in text file.
+
+Develop a python program to plot a simple graph using Matplotlib.
+
+Apply the syntax to define the class in python with example.
+
+Define tuple and give one key difference from list.
