@@ -13,6 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Python/2ND CT/3. Pandas Advantages.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3. Pandas Advantages"
+            }
+          },
+          {
+            "id": "0f197b479ba655da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Python/2ND CT/1. Scatterplot.md",
                 "mode": "source",
                 "source": false
@@ -21,7 +35,8 @@
               "title": "1. Scatterplot"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/2ND CT/1. Scatterplot.md",
+                "file": "Python/2ND CT/3. Pandas Advantages.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 1. Scatterplot"
+              "title": "Backlinks for 3. Pandas Advantages"
             }
           },
           {
@@ -113,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/2ND CT/1. Scatterplot.md",
+                "file": "Python/2ND CT/3. Pandas Advantages.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 1. Scatterplot"
+              "title": "Outgoing links from 3. Pandas Advantages"
             }
           },
           {
@@ -142,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/2ND CT/1. Scatterplot.md",
+                "file": "Python/2ND CT/3. Pandas Advantages.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1. Scatterplot"
+              "title": "Outline of 3. Pandas Advantages"
             }
           }
         ]
@@ -169,11 +184,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "bc84cbdbf24759fd",
+  "active": "0f197b479ba655da",
   "lastOpenFiles": [
     "Python/2ND CT/Index.md",
     "Python/Index.md",
     "Main Index.md",
+    "Python/2ND CT/2. With Statement.md",
+    "Python/2ND CT/1. Scatterplot.md",
     "DBMS/Index.md",
     "DBMS/2ND CT/Index.md",
     "Python/2ND CT/Q  NOT PHRASED/WhatsApp Image 2025-11-11 at 20.50.16_5976b734.jpg",
@@ -191,7 +208,6 @@
     "Python/2ND CT/22. Define Tuple.md",
     "Python/2ND CT/21. Define Class.md",
     "Python/2ND CT/20. Simple Graph.md",
-    "Python/2ND CT/2. With Statement.md",
     "Python/2ND CT/17. List Operation.md",
     "Python/2ND CT/19. Count Lines in File.md",
     "Python/2ND CT/18. List vs Tuple.md",
@@ -201,7 +217,6 @@
     "Python/2ND CT/11. Display DataFrame Rows.md",
     "Python/2ND CT/14. Aggregate Groupby.md",
     "Python/2ND CT/12. Numpy vs Pandas.md",
-    "Python/2ND CT/10. Inheritance.md",
     "Python/2ND CT",
     "DBMS/2ND CT",
     "Python",
